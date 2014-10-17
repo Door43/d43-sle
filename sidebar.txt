@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sle:home|Door43 (sle)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sle|d43-sle repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sle/archive/master.zip|d43-sle.zip]]
+
+**Recent Changes**
+{{changes>ns = sle}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sle|Ethnologue data]]
+
